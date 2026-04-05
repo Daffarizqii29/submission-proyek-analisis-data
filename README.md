@@ -19,8 +19,9 @@ submission_proyek_analisis_data/
 │   └── products_dataset.csv
 ├── Proyek_Analisis_Data.ipynb
 ├── README.md
-└── requirements.txt
-```
+├── requirements.txt
+└── url.txt
+
 
 ## Ringkasan Pertanyaan Bisnis
 1. Kategori produk apa yang menghasilkan revenue tertinggi, dan bagaimana tren revenue bulanannya selama 2017-2018?
