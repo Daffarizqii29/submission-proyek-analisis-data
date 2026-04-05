@@ -17,7 +17,7 @@ submission_proyek_analisis_data/
 │   ├── orders_dataset.csv
 │   ├── product_category_name_translation.csv
 │   └── products_dataset.csv
-├── Proyek_Analisis_Data.ipynb
+├── Notebook.ipynb
 ├── README.md
 ├── requirements.txt
 └── url.txt
